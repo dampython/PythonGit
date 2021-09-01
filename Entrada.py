@@ -1,4 +1,4 @@
-entrada = input ('Intgresa tu nombre completo: ')# Str input siempre devuelve string
+entrada = input ('Intgresa tu nombre completoCambio 1 para git: ')# Str input siempre devuelve string
 print (entrada)
 print(type(entrada))
 
