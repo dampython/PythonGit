@@ -21,4 +21,4 @@ def operacion(cantidad,balance,tipo='deposito'):
 resultado = operacion(10,30)
 # resultado = operacion(10,30,'retiro')  # devuelve 20
 # resultado = operacion(40,30,'retiro') #devuelve None
-print(resultado)
+print('Usted deposito: ',resultado)
