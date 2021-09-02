@@ -13,7 +13,8 @@ class Felino:
 
 
 class Gato(Mascota,Felino):#Clase hija
-    pass
+    pass #Si no pongo el PASS me da error y no deja guardar, menos va andar.
+         # me exige que ponga algo en el cuerpo de la funcion y puedo poner pass para resolver esto.
 
 tutuca = Gato()
 tutuca.comer()
